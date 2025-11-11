@@ -1,0 +1,5 @@
+{
+  "name": "Ecommy",
+  "description": "An AI-powered tool for e-commerce sellers. Upload a product image, name, and extra details, and Ecommy will generate an SEO-friendly title, a compelling description, and other content to help rank your product and drive sales.",
+  "requestFramePermissions": []
+}
